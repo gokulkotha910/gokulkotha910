@@ -133,13 +133,13 @@ const gokul = {
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokulkotha910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gokulkotha910&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&icon_color=7B42F6&text_color=ffffff&count_private=true&include_all_commits=true&cache_seconds=3600" alt="GitHub Stats"/> -->
 &nbsp;
 <img height="180em" src="https://streak-stats.demolab.com/?user=gokulkotha910&theme=tokyonight&hide_border=true&background=0d1117&ring=00F7F7&fire=7B42F6&currStreakLabel=00F7F7&sideLabels=ffffff&dates=aaaaaa" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkotha910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=10&cache_seconds=3600" alt="Top Languages"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokulkotha910&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7F7&text_color=ffffff&langs_count=10&cache_seconds=3600" alt="Top Languages"/> -->
 
 </div>
 
@@ -150,10 +150,10 @@ const gokul = {
 </div>
 
 <!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=gokulkotha910&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub Trophies"/>
-</div>
+</div> -->
 
 <!-- Work Experience Timeline -->
 ## 💼 Work Experience
