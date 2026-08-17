@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Gokul%20Kotha&fontSize=65&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=900&height=80&lines=Frontend+Developer+%F0%9F%92%BB;Angular+%26+TypeScript+Specialist+%E2%9A%A1;4.5%2B+Years+of+Crafting+Web+Apps+%F0%9F%9A%80;GIS+%7C+Fintech+%7C+Banking+Domain+Expert+%F0%9F%8C%90;Building+Scalable+%26+Responsive+UIs+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7F7&center=true&vCenter=true&random=false&width=900&height=80&lines=Software+Developer+%F0%9F%92%BB;Angular+%26+TypeScript+Specialist+%E2%9A%A1;4.5%2B+Years+of+Crafting+Web+Apps+%F0%9F%9A%80;GIS+%7C+Fintech+%7C+Banking+Domain+Expert+%F0%9F%8C%90;Building+Scalable+%26+Responsive+UIs+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -47,7 +47,7 @@ const gokul = {
     name         : "K.V.V.P. Gokul",
     pronouns     : "He / Him",
     location     : "Kakinada, India 🇮🇳",
-    experience   : "4.5+ Years in Frontend Development",
+    experience   : "4.5+ Years in Software Development",
     currentRole  : "Software Developer @ Trayambhu Tech Solutions",
     domains      : ["GIS & Geospatial", "Fintech", "Banking", "Energy"],
 
